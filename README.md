@@ -1,10 +1,27 @@
-# Hi! I'm Ludmylla
+<h1 align="center">Hi! I'm Ludmylla</h1>
+<br>
+
 - ⚡ Electronics Engineer
 - 🔭 Web developer and Data Analyst enthusiast
 - 🌱 I’m currently learning ReactJS and Java
 
+<br>
+
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,py)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,c,cpp,py" />
+  </a>
+</p>
+
+## Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,notion,gitlab,vscode,figma,octave,raspberrypi" />
+  </a>
+</p>
 
 <!-- 
 ### Hi there 👋 Welcome to my Github profile.
@@ -25,13 +42,14 @@ I'm a Electronic Engineer who likes to keep learning new things
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </div>
- -->         
-          
-
-<div>
+-->  
+ 
+## Stats       
+<br>
+<div align="center">
 <a href="https://github.com/ludmyllacaetano">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmyllacaetano&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ludmyllacaetano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmyllacaetano&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ludmyllacaetano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <!--
@@ -45,7 +63,7 @@ I'm a Electronic Engineer who likes to keep learning new things
 
 -->
 
-### <strong> 📫 How to reach me: </strong>
+## <strong> 📫 How to reach me: </strong>
 
 <div>
 <a href = "mailto:ludmyllacaetano1@gmail.comi"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
