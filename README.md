@@ -2,7 +2,7 @@
 <br>
 
 - ⚡ Electronics Engineer
-- 🔭 Web developer and Data Analyst enthusiast
+- 🔭 Web development and Data Science enthusiast
 - 🌱 I’m currently learning ReactJS and Java
 
 <br>
